@@ -1,0 +1,12 @@
+{
+  "bundle_dir": "js",
+  "compressed_suffix": ".min",
+  "vendor_dir": "js/vendor",
+  "bundles": {
+    "default": [
+      "sha1",
+      [ "jquery", "1.6.4" ],
+      [ "jquery.couch", "1.1.0" ]
+    ]
+  }
+}

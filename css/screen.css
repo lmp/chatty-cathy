@@ -1,0 +1,9 @@
+body {}
+
+.messages_frame {
+  border: 1px solid black;
+  padding: 5px;
+  float: left;
+  display: block;
+  width: 400px;
+}
