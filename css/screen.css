@@ -7,3 +7,8 @@ body {}
   display: block;
   width: 400px;
 }
+
+.message .timestamp {
+  color: #777;
+  font-size: 10px;
+}
